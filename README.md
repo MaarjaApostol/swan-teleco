@@ -6,9 +6,9 @@ The aim of the project was to predict which customers are at risk of churning, a
 Project's deliverables:
 
 1. Information presentation deck
-2. List of top 500 most likely to churn customers
+2. List of top 500 most likely to churn customers - not included in the repository
 3. Notebook presenting EDA, Feature Engineering, Split, Modelling & Model Evaluation
-4. Full list of churn risk/probability for the remaining customers.
+4. Full list of churn risk/probability for the remaining customers - not included in the repository
 
 Used Python (sci-kit learn, statsmodels libraries) and Logistic Regression to deliver this project.   
 Also tried GradientBoost, YDF, Neural Networks, Random Forest.
